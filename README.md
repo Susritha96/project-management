@@ -21,7 +21,7 @@ Team Lead - Nandini Doppalapudi</br>
 Team member - Susritha Gade</br>
 Technology Supporter - Rakesh Avirineni</br>
 <b><h3>Link to Stakeholder Analysis</h3></b>
-https://github.com/Susritha96/project-management/blob/master/docs/ProjectCharter.md
+https://github.com/Susritha96/project-management/blob/master/docs/ProjectCharter.md</br>
 
 
 
