@@ -1,4 +1,4 @@
-<b>Project Charter:</b></br>
+<h2><b>Project Charter:</h2></b>
 
 <b>Project Title:</b> 	Gaming Registration</br> 
 
