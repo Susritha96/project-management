@@ -26,6 +26,7 @@ https://github.com/Susritha96/project-management/blob/master/docs/ProjectCharter
 Susritha Gade</br>
 Sathwika Gone</br>
 Nandini Doppalapudi</br>
+Rakesh Avirineni</br>
 
 
 
