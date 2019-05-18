@@ -25,6 +25,7 @@ https://github.com/Susritha96/project-management/blob/master/docs/ProjectCharter
 <b><h4>Signatures:</h4></b>
 Susritha Gade</br>
 Sathwika Gone</br>
+Nandini Doppalapudi</br>
 
 
 
