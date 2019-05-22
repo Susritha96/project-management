@@ -1,4 +1,4 @@
-<b><h2>Project Title: Gaming Registration</h2></b>
+<b><h2>Project Title: 	PM Tutorials</h2></b>
 <b><h3>Project Description:</h3></b>
 This is a web application that allow user to know all the Knowledge areas and the process groups </br>
 <b><h3>Project Repository:</h3></b>
