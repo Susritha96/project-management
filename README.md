@@ -1,6 +1,6 @@
 <b><h2>Project Title: Gaming Registration</h2></b>
 <b><h3>Project Description:</h3></b>
-This application allows students to register into various gaming tournaments that are taking place within the university, they can see schedules of tournaments and students can also check score of the ongoing games and statistics of the ongoing tournaments. </br>
+This is a web application that allow user to know all the Knowledge areas and the process groups </br>
 <b><h3>Project Repository:</h3></b>
 https://github.com/Susritha96/project-management
 <b><h3>Team Name: Team Strikers</h3></b>
