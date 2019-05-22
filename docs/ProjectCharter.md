@@ -1,6 +1,6 @@
 <h2><b>Project Charter:</h2></b>
 
-<b>Project Title:</b> 	Gaming Registration</br> 
+<b>Project Title:</b> 	PM Tutorials </br> 
 
 <b>Project Start Date: </b>	05/17/2019</br>				
 
