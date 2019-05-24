@@ -4,7 +4,7 @@
 
 <b>Project Start Date: </b>	05/17/2019</br>				
 
-<b>Project Objectives:</b>This is a web application that allow user to know all the Knowledge areas and the process groups</br>	
+<b>Project Objectives:</b>This is a web application that allow user to take the quiz on project quality management knowledge area and three process groups(Planning, executing and monitoring and controlling) </br>	
 
 <b>Roles and Responsibilities:</b></br>	
 

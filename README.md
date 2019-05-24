@@ -1,6 +1,6 @@
 <b><h2>Project Title: 	PM Tutorials</h2></b>
 <b><h3>Project Description:</h3></b>
-This is a web application that allow user to know all the Knowledge areas and the process groups </br>
+This is a web application that allow user to take the quiz on project quality management knowledge area and three process groups(Planning, executing and monitoring and controlling) </br>
 <b><h3>Project Repository:</h3></b>
 https://github.com/Susritha96/project-management
 <b><h3>Team Name: Team Strikers</h3></b>
