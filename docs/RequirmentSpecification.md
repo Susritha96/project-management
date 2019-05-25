@@ -1,4 +1,4 @@
-Requirements Specification:
+<h2>Requirements Specification:</h2>
 
 ID|Requirement|Priority|Type|
 ---|---|---|---|
