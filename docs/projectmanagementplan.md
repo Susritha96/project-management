@@ -22,8 +22,9 @@ SNO|PROCESS|DAYS|
 5|Closing| 2.625 days|  
 
 <h3>2. Project organization:</h3>
-![image](https://user-images.githubusercontent.com/42945790/58363141-6bfc3c00-7e65-11e9-8dd4-5c06e1d04138.png)<br>
-2.1 External interfaces<br>
+![image](https://user-images.githubusercontent.com/42945790/58363775-3ceac800-7e6f-11e9-84d2-5047df47d73f.png)
+<br>
+<h4>2.1 External interfaces</h4>
 •	customer<br>
 •	We are using Apache Tom cat server for publishing the application.<br>
 •	There are no sub contracted organizations for this project.
@@ -58,7 +59,7 @@ This project approximately takes 15 days to complete with a budget of $2500 wher
  <h4> 4.1.1.1 Project Charter:</h4>
 Project Title: PM Tutorials<br> 
 Project Start Date: 05/17/2019<br>
-Project Objectives: This is a web application that allow user to take the quiz on project quality management 		knowledge area and three process groups (Planning, executing and monitoring and controlling).<br>
+Project Objectives: This is a web application that allow user to take the quiz on project quality management 		knowledge area and three process groups (Planning, executing and monitoring and controlling).<br><br>
 
 Roles and Responsibilities:<br>
 
@@ -138,8 +139,8 @@ The approximate cost estimate of this project is $66,310.<br>
 	List the defects in the system<br>
 	Change requests<br>
 	Update the Plan<br>
-	Track status of defects<br>
-5. Closing<br><br>
+	Track status of defects<br><br>
+5. Closing<br>
 	Lessons Learned<br>
 	Demo of the project<br>
 	Final project delivery to clients<br>
