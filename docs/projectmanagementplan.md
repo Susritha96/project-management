@@ -22,8 +22,6 @@ SNO|PROCESS|DAYS|
 5|Closing| 2.625 days|  
 
 <h3>2. Project organization:</h3>
-![Capture](https://user-images.githubusercontent.com/42945790/58363840-22fdb500-7e70-11e9-8bd7-e154f213a36e.PNG)
-<br>
 <h4>2.1 External interfaces</h4>
 •	customer<br>
 •	We are using Apache Tom cat server for publishing the application.<br>
