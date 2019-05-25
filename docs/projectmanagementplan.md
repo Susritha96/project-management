@@ -11,13 +11,13 @@
 •	Quality of the project will be affected due schedule constraint.<br>
 <b>1.7 Project deliverables:</b><br> Project charter, project management plan document, scope statement, work breakdown structure, Gantt charts, cost management plan, stakeholder register, status reports, issue log, final project documentation, end product which all customer requirements and functionality .  <br>
 <b>1.8 Schedule:</b>
-| SNO | PROCESS                    | DAYS        |
-|-----|----------------------------|-------------|
-| 1   | Initiation                 | 7.37 days   |
-| 2   | Planning                   | 23.625 days |
-| 3   | Execution                  | 33 days     |
-| 4   | Monitoring and Controlling | 4.625 days  |
-| 5   | Closing                    | 2.625 days  |
+|SNO|PROCESS|DAYS|
+|---|---|---|
+| 1|Initiation|7.37 days|
+| 2|Planning|23.625 days |
+| 3|Execution|33 days|
+| 4|Monitoring and Controlling | 4.625 days  |
+| 5|Closing| 2.625 days|  
 
 <b>2. Project organization:</b><br>
 ![image](https://user-images.githubusercontent.com/42945790/58363141-6bfc3c00-7e65-11e9-8dd4-5c06e1d04138.png)<br>
