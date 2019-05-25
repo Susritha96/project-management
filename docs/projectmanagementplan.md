@@ -68,6 +68,7 @@ Roles and Responsibilities:<br>
 | Nandini Doppalapudi | Team Lead       | 
 | Susritha Gade       | Front Developer | 
 | Rakesh Avirineni    | Tester          | 
+
 <br>This project has met the business requirements like it gets more amount than that is invested, increases the level of the company through developing quiz app as it reaches many clients.<br>
 4.2 Project Planning:<br>
 4.2.1 Cost estimate:<br>
@@ -87,16 +88,18 @@ The approximate cost estimate of this project is $66,310.<br>
 | Nandini Doppalapudi | Team Lead       | 
 | Susritha Gade       | Front Developer | 
 | Rakesh Avirineni    | Tester          | 
+
+
 4.3 Executing:<br>
 4.3.1 Work Breakdown Structure:<br>
-	1. Initiation <br>
+1. Initiation </br>
 	Identify the Stakeholders <br>
 	Select the project Manager<br>
 	Form a project Team<br>
 	Prepare a Project Charter<br>
 	Approval of Project Charter<br>
 	Review Project Charter<br>
-	2. Planning<br>
+2. Planning<br>
 	Develop a scope statement<br>
 	Develop a Work Breakdown Structure<br>
 	Develop Requirement Management Plan<br>
@@ -116,7 +119,7 @@ Develop Project Time Management<br>
 Develop Procurement Management Plan<br>
 	Develop Stakeholder Management plan <br> 
 	Approval of all plans<br>
-	3. Execution<br>
+3. Execution<br>
 	Design Prototypes<br>
 	Approval and review of prototypes<br>
 	Developing website<br>
@@ -130,18 +133,18 @@ Develop Procurement Management Plan<br>
 	Integration Testing<br>
 	System Testing<br>
 	User Acceptances testing<br>
-	4. Monitoring and Controlling<br>
+4. Monitoring and Controlling<br>
 	List the defects in the system<br>
 	Change requests<br>
 	Update the Plan<br>
 	Track status of defects<br>
-	5. Closing<br>
+5. Closing<br>
 	Lessons Learned<br>
 	Demo of the project<br>
 	Final project delivery to clients<br>
-4.3.2 Project Schedule and Time management:<br>
-We will prepare schedule for the complete project by considering each and every team members capability, performance and also time required in order to train team members on the new technologies that are being used in the project.<br>
-4.3.3: Project Human Resource Management: <br>
+4.3.2 Project Schedule and Time management:<br><br>
+We will prepare schedule for the complete project by considering each and every team members capability, performance and also time required in order to train team members on the new technologies that are being used in the project.<br><br>
+4.3.3: Project Human Resource Management: <br><br>
 Based on the project requirements we need around 10 members to complete the project successfully. As our project needs people who work on technologies like html, CSS, java script and data base so we choose people who had good amount of experience and had been part of different projects of respective technology. Then after acquiring the required people we will allocate the work according to their skills and measure their performance by allocating them the work and giving them the deadlines and check whether they are completing the task on time if they cannot complete it on time will try to know what is the problem and try to help him in completing the task. If he completes the work on the time then we would appreciate the employee in the scrum meeting as appreciation gives us new energy.<br>
 4.3.4 Project Procurement Management and Budget Allocation: <br>
 We will buy selenium testing tools in order to test the website performance and whether the website is properly working or not. We allocated 1200 $ to buy different testing tools. <br>
