@@ -154,7 +154,7 @@ We make sure that all the requirements which are mentioned by the sponsor are me
 5.5 Reviews and Audits:<br>
 We will have timely reviews regarding the works that is being done in the project and make sure that the review is being done according to the specific guidelines and the budget audit all the bills that are submitted regarding the project work.<br>
 5.6 Process improvement Plan:<br>
-We keep a backup for every procedure that is being implemented in the project if any of the procedure that is being executed does not follow the guidelines or standards then we will implement another procedure which is kept as backup for the initial procedure that is being implemented.<br>
+We keep a backup for every procedure that is being implemented in the project if any of the procedure that is being executed does not follow the guidelines or standards then we will implement another procedure which is kept as backup for the initial procedure that is being implemented.<br><br>
 
 
 
