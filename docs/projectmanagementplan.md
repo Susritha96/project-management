@@ -59,6 +59,7 @@ This project approximately takes 15 days to complete with a budget of $2500 wher
 Project Title: PM Tutorials<br> 
 Project Start Date: 05/17/2019<br>
 Project Objectives: This is a web application that allow user to take the quiz on project quality management 		knowledge area and three process groups (Planning, executing and monitoring and controlling).<br>
+
 Roles and Responsibilities:<br>
 
 
@@ -98,7 +99,7 @@ The approximate cost estimate of this project is $66,310.<br>
 	Form a project Team<br>
 	Prepare a Project Charter<br>
 	Approval of Project Charter<br>
-	Review Project Charter<br>
+	Review Project Charter<br><br>
 2. Planning<br>
 	Develop a scope statement<br>
 	Develop a Work Breakdown Structure<br>
@@ -107,7 +108,7 @@ The approximate cost estimate of this project is $66,310.<br>
 	Managerial Process Plan<br>
 	Technical Process plan<br>
 	Develop Requirement Traceability Matrix<br>
-Develop Project Time Management<br>
+	Develop Project Time Management<br>
 	Develop schedules <br>
 	Resource Allocation<br>
 	Develop Cost Management Plan<br>
@@ -116,9 +117,9 @@ Develop Project Time Management<br>
 	Develop Human Resource Management Plan<br>
 	Develop Communication Management Plan<br>
 	Develop Risk Management Plan<br>
-Develop Procurement Management Plan<br>
+	Develop Procurement Management Plan<br>
 	Develop Stakeholder Management plan <br> 
-	Approval of all plans<br>
+	Approval of all plans<br><br>
 3. Execution<br>
 	Design Prototypes<br>
 	Approval and review of prototypes<br>
@@ -132,13 +133,13 @@ Develop Procurement Management Plan<br>
 	Unit Testing<br>
 	Integration Testing<br>
 	System Testing<br>
-	User Acceptances testing<br>
+	User Acceptances testing<br><br>
 4. Monitoring and Controlling<br>
 	List the defects in the system<br>
 	Change requests<br>
 	Update the Plan<br>
 	Track status of defects<br>
-5. Closing<br>
+5. Closing<br><br>
 	Lessons Learned<br>
 	Demo of the project<br>
 	Final project delivery to clients<br>
