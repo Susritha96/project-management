@@ -1,15 +1,15 @@
 
 <b>Project management plan:</b><br>
 <b>1. Overview:</b><br>
-<b>1.1 Purpose:</b><br> The purpose of this application is to let the user to take quiz in the Project management quality area and 3 process groups and helps to increase their knowledge.<br>
-<b>1.2 Scope:</b><br>This application mainly focuses on the development of the quiz app for the Project management quality area and 3 process groups and further we may add other quality areas to this application.<br>
-<b>1.3 Objectives:</b><br> To develop the quiz app for the project quality management.<br>
-<b>1.4 Constraints:</b><br> Getting all the data for the quiz and to make them available to the customer.<br>
-<b>1.5 Assumption:</b><br> This application helps user to increase their knowledge in the Project management quality area.<br>
+<b>1.1 Purpose:</b><br> 	The purpose of this application is to let the user to take quiz in the Project management quality area and 3 process groups and helps to increase their knowledge.<br>
+<b>1.2 Scope:</b><br>	This application mainly focuses on the development of the quiz app for the Project management quality area and 3 process groups and further we may add other quality areas to this application.<br>
+<b>1.3 Objectives:</b><br>	 To develop the quiz app for the project quality management.<br>
+<b>1.4 Constraints:</b><br>	 Getting all the data for the quiz and to make them available to the customer.<br>
+<b>1.5 Assumption:</b><br>	 This application helps user to increase their knowledge in the Project management quality area.<br>
 <b>1.6 Constraints:</b><br> 
 •	This project has to be completed in 90 days which is kind of busy schedule to complete all the tasks.<br>
 •	Quality of the project will be affected due schedule constraint.<br>
-<b>1.7 Project deliverables:</b><br> Project charter, project management plan document, scope statement, work breakdown structure, Gantt charts, cost management plan, stakeholder register, status reports, issue log, final project documentation, end product which all customer requirements and functionality .  <br>
+<b>1.7 Project deliverables:</b><br>	 Project charter, project management plan document, scope statement, work breakdown structure, Gantt charts, cost management plan, stakeholder register, status reports, issue log, final project documentation, end product which all customer requirements and functionality .  <br>
 <b>1.8 Schedule:</b>
 
 
@@ -38,7 +38,7 @@ Susritha Gade | Front Developer | Creates an interface through which user can   
 Rakesh Avirineni    | Tester | Tests the interfaces so that everything is working correctly   |
 
 
-<b>3. Managerial Process Plan:</b>
+<b>3. Managerial Process Plan:</b><br>
 3.1 Startup plans:<br>
 This project approximately takes 15 days to complete with a budget of $2500 where manager, team lead, front end developer and tester will be working who will be trained for 1 day (where they will be introduced to process of developing the application).<br>
 
@@ -56,10 +56,10 @@ This project approximately takes 15 days to complete with a budget of $2500 wher
 4.1. Process Model:<br>
  4.1.1 Project Initiation:<br>
   4.1.1.1 Project Charter:<br>
-Project Title: PM Tutorials<br> 
-Project Start Date: 05/17/2019<br>
-Project Objectives: This is a web application that allow user to take the quiz on project quality management knowledge area and three process groups (Planning, executing and monitoring and controlling).<br>
-Roles and Responsibilities:<br>
+		Project Title: PM Tutorials<br> 
+		Project Start Date: 05/17/2019<br>
+		Project Objectives: This is a web application that allow user to take the quiz on project quality management 		knowledge area and three process groups (Planning, executing and monitoring and controlling).<br>
+		Roles and Responsibilities:<br>
 
 
 | NAMES               | ROLES           |
@@ -72,13 +72,13 @@ Roles and Responsibilities:<br>
 <br>This project has met the business requirements like it gets more amount than that is invested, increases the level of the company through developing quiz app as it reaches many clients.<br>
 4.2 Project Planning:<br>
 4.2.1 Cost estimate:<br>
-The approximate cost estimate of this project is $66,310.<br>
-•	WBS items-$10,500<br>
-•	Hardware-$8010<br>
-•	Software-$1500<br>
-•	Testing-$1200<br>
-•	Training and support-$35,600<br>
-•	Reserves-$9,500<br>
+	The approximate cost estimate of this project is $66,310.<br>
+	•	WBS items-$10,500<br>
+	•	Hardware-$8010<br>
+	•	Software-$1500<br>
+	•	Testing-$1200<br>
+	•	Training and support-$35,600<br>
+	•	Reserves-$9,500<br>
 4.2.2 Staffing:	<br>
 
 
@@ -142,23 +142,23 @@ Develop Procurement Management Plan<br>
 	Lessons Learned<br>
 	Demo of the project<br>
 	Final project delivery to clients<br>
-4.3.2 Project Schedule and Time management:<br><br>
+<h5>4.3.2 Project Schedule and Time management:</h5><br><br>
 We will prepare schedule for the complete project by considering each and every team members capability, performance and also time required in order to train team members on the new technologies that are being used in the project.<br><br>
-4.3.3: Project Human Resource Management: <br><br>
+<h5>4.3.3: Project Human Resource Management: </h5><br><br>
 Based on the project requirements we need around 10 members to complete the project successfully. As our project needs people who work on technologies like html, CSS, java script and data base so we choose people who had good amount of experience and had been part of different projects of respective technology. Then after acquiring the required people we will allocate the work according to their skills and measure their performance by allocating them the work and giving them the deadlines and check whether they are completing the task on time if they cannot complete it on time will try to know what is the problem and try to help him in completing the task. If he completes the work on the time then we would appreciate the employee in the scrum meeting as appreciation gives us new energy.<br>
-4.3.4 Project Procurement Management and Budget Allocation: <br>
+<h5>4.3.4 Project Procurement Management and Budget Allocation:</h5> <br>
 We will buy selenium testing tools in order to test the website performance and whether the website is properly working or not. We allocated 1200 $ to buy different testing tools. <br>
-4.3.5 Project Management and control:<br>
+<h5>4.3.5 Project Management and control:</h5><br>
 We allocate a person to take the role of monitoring of all the work whether the work is going according to the schedule and if the work is being delayed then he will take the necessary steps to make sure that the work finishes on time and the same person takes care of the budget and make sure the money is not being wasted and the budget does not go beyond the expectation. <br>
-4.3.6 Project Quality Management:<br>
+<h5>4.3.6 Project Quality Management:</h5><br>
 We will setup some policies and guidelines and make sure very member in the team follow them and work accordingly.<br>
-4.3.7 Project Communications Plan:<br>
+<h5>4.3.7 Project Communications Plan:</h5><br>
 We will communicate through skype calls and if there is any emergency and if any team member is not available we will have a virtual meeting through skype and we even use some of the tools like screen sharing apps like join me and show my pc to work virtually if needed.<br>
 
-4.3.8 Project Closure:<br>
+<h5>4.3.8 Project Closure:</h5><br>
 We make sure the requirements given by the project sponsor and arrange a meet with the sponsor and explain about the website and handover the performance results to the sponsor.<br>
 <b>5. Supporting process Plan:</b><br>
-5.1 Configuration Management Plan:<br>
+<h5>5.1 Configuration Management Plan:<h5><br>
 We will have a collection of formal documents which specify the initial baselining of work products, logging and analysis of work products, change control board procedures and tracking of changes in the progress.<br>
 5.2 Verification and Validation Plan:<br>
 We specify the verification and validation of techniques, scope, mile stone reviews and progress of the project <br> 
