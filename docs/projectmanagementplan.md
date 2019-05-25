@@ -28,16 +28,22 @@ SNO|PROCESS|DAYS|
 •	We are using Apache Tom cat server for publishing the application.<br>
 •	There are no sub contracted organizations for this project.
 2.2 Roles &Responsibilities:<br>
-| NAMES               | ROLES           | RESPONSIBILITY                                                                                      |
-|---------------------|-----------------|-----------------------------------------------------------------------------------------------------|
-| Sathwika Gone       | Team Manager    | Plans schedule ,working with team and sponsor                                                       |
-| Nandini Doppalapudi | Team Lead       | Guides the employees to complete the   projects, assigning tasks to employees, motivating employees |
-| Susritha Gade       | Front Developer | Creates an interface through which user can   interact.                                             |
-| Rakesh Avirineni    | Tester          | Tests the interfaces so that everything is working correctly                                        |
+
+
+NAMES| ROLES| RESPONSIBILITY |
+----|-----|-----|
+Sathwika Gone       | Team Manager  | Plans schedule ,working with team and sponsor   |
+Nandini Doppalapudi | Team Lead  | Guides the employees to complete the   projects, assigning tasks to employees, motivating employees 
+Susritha Gade | Front Developer | Creates an interface through which user can   interact.|
+Rakesh Avirineni    | Tester | Tests the interfaces so that everything is working correctly   |
+
+
 <b>3. Managerial Process Plan:</b>
 3.1 Startup plans:<br>
 This project approximately takes 15 days to complete with a budget of $2500 where manager, team lead, front end developer and tester will be working who will be trained for 1 day (where they will be introduced to process of developing the application).<br>
+
 3.2 Work plan:
+
 | Work Activites          | Schedule  | Budget Allocation  |
 |-------------------------|-----------|--------------------|
 | Requirements Gathering  | 10 days   | $10,000            |
@@ -54,6 +60,8 @@ Project Title: PM Tutorials<br>
 Project Start Date: 05/17/2019<br>
 Project Objectives: This is a web application that allow user to take the quiz on project quality management knowledge area and three process groups (Planning, executing and monitoring and controlling).<br>
 Roles and Responsibilities:<br>
+
+
 | NAMES               | ROLES           |
 |---------------------|-----------------|
 | Sathwika Gone       | Team Manager    | 
@@ -71,6 +79,8 @@ The approximate cost estimate of this project is $66,310.<br>
 •	Training and support-$35,600<br>
 •	Reserves-$9,500<br>
 4.2.2 Staffing:	<br>
+
+
 | NAMES               | ROLES           |
 |---------------------|-----------------|
 | Sathwika Gone       | Team Manager    | 
@@ -152,7 +162,7 @@ We specify the verification and validation of techniques, scope, mile stone revi
 5.3 Documentation Plan:<br>
 We specify different types of documents that are to be prepared in different parts of the project and have proper template and proper review for each document that has been prepared. <br>
 5.4 Quality Assurance Plan:<br>
-We make sure that all the requirements which are mentioned by the sponsor are met according to the IT standards, procedures and guidelines.
+We make sure that all the requirements which are mentioned by the sponsor are met according to the IT standards, procedures and guidelines.<br>
 5.5 Reviews and Audits:<br>
 We will have timely reviews regarding the works that is being done in the project and make sure that the review is being done according to the specific guidelines and the budget audit all the bills that are submitted regarding the project work.<br>
 5.6 Process improvement Plan:<br>
