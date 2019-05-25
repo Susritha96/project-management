@@ -11,6 +11,8 @@
 •	Quality of the project will be affected due schedule constraint.<br>
 <b>1.7 Project deliverables:</b><br> Project charter, project management plan document, scope statement, work breakdown structure, Gantt charts, cost management plan, stakeholder register, status reports, issue log, final project documentation, end product which all customer requirements and functionality .  <br>
 <b>1.8 Schedule:</b>
+
+
 SNO|PROCESS|DAYS|
 ---|---|---|
 1|Initiation|7.37 days|
