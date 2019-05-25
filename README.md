@@ -22,11 +22,15 @@ Team Lead - Nandini Doppalapudi</br>
 FrontEnd Developer - Susritha Gade</br>
 Tester - Rakesh Avirineni</br>
 <b><h3>Link to Stakeholder Analysis</h3></b>
-https://github.com/Susritha96/project-management/blob/master/docs/ProjectCharter.md</br>
-<b>Link to jira</b>:
-http://198.209.246.206:8080/secure/Dashboard.jspa<br>
-Image of issues and tasks created <br>
-![image](https://user-images.githubusercontent.com/42945790/58363694-019bc980-7e6e-11e9-9811-497a84515c6d.png)
+https://github.com/Susritha96/project-management/blob/master/docs/ProjectCharter.md</br><br>
+<b>Link to jira</b>:<br><br>
+http://198.209.246.206:8080/secure/Dashboard.jspa<br><br>
+Image of issues and tasks created <br><br>
+![image](https://user-images.githubusercontent.com/42945790/58363694-019bc980-7e6e-11e9-9811-497a84515c6d.png)<br><br>
+Images of Gantt Chart:<br><br>
+![Screenshot (213)](https://user-images.githubusercontent.com/42945790/58363845-52142680-7e70-11e9-958f-b69e548b1bf0.png)<br><br>
+![Screenshot (214)](https://user-images.githubusercontent.com/42945790/58363841-31e46780-7e70-11e9-9210-7beb08e53b82.png)<br>
+
 <b><h4>Signatures:</h4></b>
 Susritha Gade</br>
 Sathwika Gone</br>

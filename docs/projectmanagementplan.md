@@ -22,7 +22,7 @@ SNO|PROCESS|DAYS|
 5|Closing| 2.625 days|  
 
 <h3>2. Project organization:</h3>
-![image](https://user-images.githubusercontent.com/42945790/58363775-3ceac800-7e6f-11e9-84d2-5047df47d73f.png)
+![Capture](https://user-images.githubusercontent.com/42945790/58363840-22fdb500-7e70-11e9-8bd7-e154f213a36e.PNG)
 <br>
 <h4>2.1 External interfaces</h4>
 •	customer<br>
