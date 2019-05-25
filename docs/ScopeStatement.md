@@ -1,3 +1,6 @@
+
+<h2>Scope Statement</h2>
+
 <table style="width:100%;border: 1px solid black;">
 <tr>
 <td><b>Project Title: PM Tutorials. </b> </br>                                          
@@ -12,8 +15,8 @@ Date: 5/24/2019                                                                 
 3.	This user must be able to take the quiz in our website.</br>
 4.	This website must be able to display the scores of the user.</br> </td>
 </tr>
-<tr><td><b> Summary of Project Deliverables</b>
-<b>Project management-related deliverables:</b> business case, charter, team contract, scope statement, WBS, schedule, cost baseline, status reports, final project presentation, final project report, lessons-learned report, and any other documents required to manage the project.
+<tr><td><b> Summary of Project Deliverables</b></br>
+<b>Project management-related deliverables:</b> business case, charter, team contract, scope statement, WBS, schedule, cost baseline, status reports, final project presentation, final project report, lessons-learned report, and any other documents required to manage the project.</br>
 <b>Product-related deliverables:</b> research reports, design documents, software code, hardware, etc.</br>
 1.	A website prototype will demonstrates how the website will look and work to the user.</br>
 2.	A website with a list of questions on Project Quality Management and 3 project groups.</br>
