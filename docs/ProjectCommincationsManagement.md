@@ -1,14 +1,14 @@
 <b><h3>Projects Communication Management</h3></b>
 Project communications are guided by Project communications Plan. It consists project structure and process that was used in requirements collection, understanding about the actions required among the project team .All the information of the stakeholder is maintained in stakeholder Communications Analysis table.<br>
 <b>Stakeholder communications requirements</b><br>
-StakeHolders|Document Name |Document Format|Contact Person|Due Date|
----|---|---|---|---| 
-Project Manager|Project status report|Email|sathwikagone@gmail.com|Every week
-Team Lead|Project status report|Email|doppalapudinandini77@gmail.com|Every week
-Team Member|Project documents|Email|susrithagade199@gmail.com|Daily
-Team Member|Project documents|Email|sathwikagone@gmail.com|Daily
-Team Member|Project documents|Email|doppalapudinandini77@gmail.com|Daily
-Test Engineer|Test reports|Report|sairakesh217@gmail.com|End of each task
+| StakeHolders            | Document Name  | Document Format  | Contact Person | Due Date |
+|-------------------------|----------------|------------------|----------------|----------|
+| Requirements Gathering  | 10 days        | $10,000          |                |          |
+| Design Delivery         | 15 days        | $12,000          |                |          |
+| Development             | 25 days        | $25,000          |                |          |
+| Testing                 | 12 days        | $13,000          |                |          |
+| Launch Application      | 3 days         | $6,310           |                |          |
+|                         |                |                  |                |          |
 <b>Information to be communicated, including format, content, and level of detail</b><br>
 Information regarding should be available to the members in the team by using a template which should be accessed by everyone by using tools like google docs or SharePoint. Template should contain all the content that should be included in the project and the level details depends on the persons who is analyzing the information.<br>
 <b>Who will receive the information and who will produce it</b><br>
