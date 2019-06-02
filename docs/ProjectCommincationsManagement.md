@@ -3,7 +3,7 @@ Project communications are guided by Project communications Plan. It consists pr
 <b>Stakeholder communications requirements</b><br>
 StakeHolders|Document Name |Document Format|Contact Person|Due Date|
 ---|---|---|---|---| 
-|Project Manager|Project status report|Email|sathwikagone@gmail.com|Every week
+Project Manager|Project status report|Email|sathwikagone@gmail.com|Every week
 Team Lead|Project status report|Email|doppalapudinandini77@gmail.com|Every week
 Team Member|Project documents|Email|susrithagade199@gmail.com|Daily
 Team Member|Project documents|Email|sathwikagone@gmail.com|Daily
