@@ -32,7 +32,7 @@ ID|Test Phase|Nandini|Susritha|Sathwika|Rakesh|
 4 | System Test| I | C  | A  | R  |
 5 | User Acceptance Test| R | I  | C  | A  |
 
-R = responsibility<br>
-A = accountability, only one A per task<br>
-C = consultation<br>
-I = informed<br>
+R = Responsibility<br>
+A = Accountability, only one A per task<br>
+C = Consultation<br>
+I = Informed<br>
