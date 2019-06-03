@@ -1,6 +1,5 @@
 
-
-<h2>Resources management plan</h2>
+<h2>Resource management plan</h2>
 
 <h4>Organizational Structure</h4>
 
@@ -10,15 +9,15 @@
 <h4>Responsibility Assignment Matrix</h4>
 
 ID|Activity|Nandini| Susritha| Sathwika| Rakesh|
----|---|---|---|---|
-1 | Initiation | |<p>R</p>| |<p>P</p> |
-2 | Planning  |<p>R</p> | |<p> P</p>| |
-3 | Design |<p>P</p>| |<p>R</p>| |
-4 | Development |<p>R</p>| <p>P</p>| | |
-5 | Testing |<p>R</p>| | |<p>P</p>|
-6 | Deployment or Release |<p>P</p> |<p>R</p> | | |
-7 | Defect fixing | | |<p>R</p> |<p>P</p> |
-8 | Enhancements|<p>P</p> | | |<p>R</p> |
+---|---|---|---|---|---|
+1 | Initiation | |R| |P |
+2 | Planning  |R | | P| |
+3 | Design | P | | R | |
+4 | Development | R |  P | | |
+5 | Testing | R | | | P |
+6 | Deployment or Release | P  | R  | | |
+7 | Defect fixing | | | R  | P  |
+8 | Enhancements| P  | | | R  |
 
 R=Responsible member in the project <br>
 P=Performing member in the project <br>
@@ -27,11 +26,11 @@ P=Performing member in the project <br>
 
 ID|Test Phase|Nandini|Susritha|Sathwika|Rakesh|
 ---|---|---|---|---|---|
-1 | Test Plans | <p>R</p>|<p>A</p> |<p>C</p> |<p>I</p> |
-2 | Unit Test | <p> C</p>|<p>I</p> |<p>R</p> |<p>A</p> |
-3 | Integration Test|<p>A</p>|<p>R</p> |<p>I</p> |<p>C</p> |
-4 | System Test|<p>I</p>|<p>C</p> |<p>A</p> |<p>R</p> |
-5 | User Acceptance Test|<p>R</p>|<p>I</p> |<p>C</p> |<p>A</p> |
+1 | Test Plans |  R | A  | C  | I  |
+2 | Unit Test |   C | I  | R  | A  |
+3 | Integration Test| A | R  | I  | C  |
+4 | System Test| I | C  | A  | R  |
+5 | User Acceptance Test| R | I  | C  | A  |
 
 R = responsibility<br>
 A = accountability, only one A per task<br>
