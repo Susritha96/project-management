@@ -1,4 +1,4 @@
-<h4>Project Quality Management</h4>  
+<h2>Project Quality Management</h2>  
 All the project team members will play a role in quality management. It is important that the team ensures that work is completed and has adequate level of quality to the final project deliverable. </br>
 The project sponsor is responsible for approving the quality standards of our project. He/she will sign the final acceptance of the project deliverable. The project Manager will work with specialists to develop the standards for acceptable quality. </br>
 <h4>Quality Metrics</h4>
@@ -12,6 +12,7 @@ Sathwika Gone| Project Manager | Quality Monitoring |
 Rakesh Avirineni | Web Developer | Quality Approver |
 Susritha Gade| Web developer | Quality Assurance |
 Nandini Doppalapudi | Team Lead | Quality Auditor |
+</br>
 </h4>Quality Tools</h4>
 We will use different tools to perform quality control they are cause and effect diagram, check sheet, control charts, Scatter diagrams and Histograms. </br>
 
@@ -26,8 +27,8 @@ Have product quality metrics been established, reviewed, and agreed upon? |   | 
 Do all metrics have agreed upon collection mechanisms?|   |   |   |
 Is the project team familiar with the project's quality review process? |   |   |   |
 Are all metrics clear, measurable, controllable, and reportable?|   |   |   |
-Does website is working with inappropriate values|   |   |   |
+Does website is working with inappropriate values?|   |   |   |
 Does all the buttons in the quiz page are working? |   |   |   |
 Are we able to navigate from one page to other? |   |   |   |
 Are we able to login and logout from the website? |   |   |   |
-Does all screens are working as per requirements|   |    |   |
+Does all screens are working as per requirements?|   |    |   |
