@@ -11,11 +11,11 @@
 ID|Activity|Nandini| Susritha| Sathwika| Rakesh|
 ---|---|---|---|---|---|
 1 | Initiation | |R| |P |
-2 | Planning  |R | | P| |
+2 | Planning  | | | P|R |
 3 | Design | P | | R | |
-4 | Development | R |  P | | |
+4 | Development | |  P |R | |
 5 | Testing | R | | | P |
-6 | Deployment or Release | P  | R  | | |
+6 | Deployment or Release |   | R |P | |
 7 | Defect fixing | | | R  | P  |
 8 | Enhancements| P  | | | R  |
 
