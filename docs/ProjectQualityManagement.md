@@ -13,7 +13,7 @@ Rakesh Avirineni | Web Developer | Quality Approver |
 Susritha Gade| Web developer | Quality Assurance |
 Nandini Doppalapudi | Team Lead | Quality Auditor |
 </br>
-</h4>Quality Tools</h4>
+<h4>Quality Tools</h4>
 We will use different tools to perform quality control they are cause and effect diagram, check sheet, control charts, Scatter diagrams and Histograms. </br>
 
 <h4>Quality Checklist</h4>
