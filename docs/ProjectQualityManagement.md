@@ -1,4 +1,5 @@
 <h2>Project Quality Management</h2>  
+<h4>Planning quality management:</h4> The Quality Management Plan defines the acceptable level of quality and how quality will be managed throughout the lifecycle of the project.</br>
 All the project team members will play a role in quality management. It is important that the team ensures that work is completed and has adequate level of quality to the final project deliverable. </br>
 The project sponsor is responsible for approving the quality standards of our project. He/she will sign the final acceptance of the project deliverable. The project Manager will work with specialists to develop the standards for acceptable quality. </br>
 <h4>Quality Metrics</h4>
