@@ -39,17 +39,17 @@ Rakesh Avirineni    | Tester | Tests the interfaces so that everything is workin
 
 <h3>3. Managerial Process Plan:</h3>
 <h4>3.1 Startup plans:</h4>
-This project approximately takes 15 days to complete with a budget of $2500 where manager, team lead, front end developer and tester will be working who will be trained for 1 day (where they will be introduced to process of developing the application).<br>
+This project approximately takes 2 months to complete with a budget of $8650 where manager, team lead, front end developer and tester will be working who will be trained for 1 day (where they will be introduced to process of developing the application).<br>
 
 <h4>3.2 Work plan:</h4>
 
 | Work Activites          | Schedule  | Budget Allocation  |
 |-------------------------|-----------|--------------------|
-| Requirements Gathering  | 10 days   | $10,000            |
-| Design Delivery         | 15 days   | $12,000            |
-| Development             | 25 days   | $25,000            |
-| Testing                 | 12 days   | $13,000            |
-| Launch Application      | 3 days    | $6,310             |
+| Requirements Gathering  | 10 days   | $700               |
+| Design Delivery         | 15 days   | $500               |
+| Development             | 25 days   | $4500              |
+| Testing                 | 12 days   | $800               |
+| Launch Application      | 3 days    | $500               |
 
 <h3>4. Technical Process Plan:</h3>
 <h4>4.1. Process Model:</h4>
@@ -72,13 +72,12 @@ Roles and Responsibilities:<br>
 <br>This project has met the business requirements like it gets more amount than that is invested, increases the level of the company through developing quiz app as it reaches many clients.<br>
 <h4>4.2 Project Planning:</h4>
 <h4>4.2.1 Cost estimate:</h4>
-The approximate cost estimate of this project is $66,310.<br>
-•	WBS items-$10,500<br>
-•	Hardware-$8010<br>
-•	Software-$1500<br>
-•	Testing-$1200<br>
-•	Training and support-$35,600<br>
-•	Reserves-$9,500<br>
+The approximate cost estimate of this project is $8650.<br>
+•	WBS items-$6650<br>
+•	Hardware-$1000<br>
+•	Software-$0<br>
+•	Testing-$0<br>
+•	Reserves-$1000<br>
 <h4>4.2.2 Staffing:</h4>
 
 
@@ -147,7 +146,7 @@ We will prepare schedule for the complete project by considering each and every 
 <h4>4.3.3: Project Human Resource Management: </h4>
 Based on the project requirements we need around 10 members to complete the project successfully. As our project needs people who work on technologies like html, CSS, java script and data base so we choose people who had good amount of experience and had been part of different projects of respective technology. Then after acquiring the required people we will allocate the work according to their skills and measure their performance by allocating them the work and giving them the deadlines and check whether they are completing the task on time if they cannot complete it on time will try to know what is the problem and try to help him in completing the task. If he completes the work on the time then we would appreciate the employee in the scrum meeting as appreciation gives us new energy.<br>
 <h4>4.3.4 Project Procurement Management and Budget Allocation:</h4> 
-We will buy selenium testing tools in order to test the website performance and whether the website is properly working or not. We allocated 1200 $ to buy different testing tools. <br>
+We will buy selenium testing tools in order to test the website performance and whether the website is properly working or not. We allocated 0$ to buy different testing tools. <br>
 <h4>4.3.5 Project Management and control:</h4>
 We allocate a person to take the role of monitoring of all the work whether the work is going according to the schedule and if the work is being delayed then he will take the necessary steps to make sure that the work finishes on time and the same person takes care of the budget and make sure the money is not being wasted and the budget does not go beyond the expectation. <br>
 <h4>4.3.6 Project Quality Management:</h4>
