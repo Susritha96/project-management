@@ -39,17 +39,17 @@ Rakesh Avirineni    | Tester | Tests the interfaces so that everything is workin
 
 <h3>3. Managerial Process Plan:</h3>
 <h4>3.1 Startup plans:</h4>
-This project approximately takes 15 days to complete with a budget of $2500 where manager, team lead, front end developer and tester will be working who will be trained for 1 day (where they will be introduced to process of developing the application).<br>
+This project approximately takes 15 days to complete with a budget of $20,130 where manager, team lead, front end developer and tester will be working who will be trained for 1 day (where they will be introduced to process of developing the application).<br>
 
 <h4>3.2 Work plan:</h4>
 
 | Work Activites          | Schedule  | Budget Allocation  |
 |-------------------------|-----------|--------------------|
-| Requirements Gathering  | 10 days   | $10,000            |
-| Design Delivery         | 15 days   | $12,000            |
-| Development             | 25 days   | $25,000            |
-| Testing                 | 12 days   | $13,000            |
-| Launch Application      | 3 days    | $6,310             |
+| Requirements Gathering  | 10 days   | $1780              |
+| Design Delivery         | 15 days   | $6230              |
+| Development             | 25 days   | $8520              |
+| Monitoring and controlling| 12 days | $3000              |
+| Launch Application      | 3 days    | $630               |
 
 <h3>4. Technical Process Plan:</h3>
 <h4>4.1. Process Model:</h4>
@@ -72,13 +72,9 @@ Roles and Responsibilities:<br>
 <br>This project has met the business requirements like it gets more amount than that is invested, increases the level of the company through developing quiz app as it reaches many clients.<br>
 <h4>4.2 Project Planning:</h4>
 <h4>4.2.1 Cost estimate:</h4>
-The approximate cost estimate of this project is $66,310.<br>
-•	WBS items-$10,500<br>
-•	Hardware-$8010<br>
-•	Software-$1500<br>
-•	Testing-$1200<br>
-•	Training and support-$35,600<br>
-•	Reserves-$9,500<br>
+The approximate cost estimate of this project is $20,130.<br>
+•	WBS items-$17,500<br>
+•	Reserves-$2,650<br>
 <h4>4.2.2 Staffing:</h4>
 
 
