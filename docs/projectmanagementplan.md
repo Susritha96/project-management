@@ -187,9 +187,9 @@ Number|Task Name| Duration
 3.4.3|System Testing|2 days
 3.4.4|User Acceptances testing|2 days
 4|Monitoring and Controlling|6 days
-4.1|List the defects in the system|2 days
-4.2|Change requests|1 day
-4.3|Update the Plan|1 day
+4.1|List the defects in the system|4 days
+4.2|Change requests|2 day
+4.3|Update the Plan|2 day
 4.4|Track status of defects|2 days
 5|Closing|3 days
 5.1|Lessons Learned|1 day
