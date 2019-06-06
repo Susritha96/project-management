@@ -39,7 +39,7 @@ Rakesh Avirineni    | Tester | Tests the interfaces so that everything is workin
 
 <h3>3. Managerial Process Plan:</h3>
 <h4>3.1 Startup plans:</h4>
-This project approximately takes 15 days to complete with a budget of $20,130 where manager, team lead, front end developer and tester will be working who will be trained for 1 day (where they will be introduced to process of developing the application).<br>
+This project approximately takes 15 days to complete with a budget of $27,500 where manager, team lead, front end developer and tester will be working who will be trained for 1 day (where they will be introduced to process of developing the application).<br>
 
 <h4>3.2 Work plan:</h4>
 
