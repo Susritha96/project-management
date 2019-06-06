@@ -140,6 +140,59 @@ The approximate cost estimate of this project is $20,130.<br>
 	Final project delivery to clients<br>
 <h4>4.3.2 Project Schedule and Time management:</h4>
 We will prepare schedule for the complete project by considering each and every team members capability, performance and also time required in order to train team members on the new technologies that are being used in the project.<br><br>
+Number|Task Name| Duration
+|---|---|---|
+1|Initiation|7.6 days
+1.1|Identify the Stakeholders|2 days
+1.2|Select the project Manager|1 day
+1.3|Form a project Team|1 day
+1.4|Prepare a Project Charter|2 days
+1.5|Approval of Project Charter|1 day
+1.6|Review Project Charter|0.6 day
+2|Planning|15.8 days
+2.1|Develop a scope statement|1 day
+2.2|Develop a Work Breakdown Structure|1 day
+2.3|Develop Requirement Management Plan|2 days
+2.4|Develop Project Management Plan|3 days
+2.4.1|Managerial Process Plan|1 day
+2.4.2|Technical Process plan| 1 day
+2.4.3|Develop Requirement Traceability Matrix|2 days
+2.5|Develop Project Time Management|2 days
+2.5.1|Develop schedules|1 day
+2.5.2|Resource Allocation|1 day
+2.6|Develop Cost Management Plan|1 day
+2.6.1|Cost Estimation and Determine Budgets|1 day
+2.7|Develop Quality Management Plan|1 day
+2.8|Develop Human Resource Management Plan|1 day
+2.9|Develop Communication Management Plan|1 day
+2.10|Develop Risk Management Plan|1 day
+2.11|Develop Procurement Management Plan|1 day
+2.12|Develop Stakeholder Management plan|1 day 
+2.13|Approval of all plans|0.8 days
+3|Execution|23 days
+3.1|Design Prototypes|3 days
+3.2|Approval and review of prototypes|2 days 
+3.3|Developing website|16 days
+3.3.1|Create Registration page|1 day
+3.3.2|Create Login page|1 day
+3.3.3|Create Quiz screens|10 days
+3.3.4|Create Score screen| 5 days 
+3.3.5|Perform quality assurance|2 days
+3.4|Testing|2 days
+3.4.1|Unit Testing|2 days
+3.4.2|Integration Testing|1 day
+3.4.3|System Testing|2 days
+3.4.4|User Acceptances testing|2 days
+4|Monitoring and Controlling|6 days
+4.1|List the defects in the system|2 days
+4.2|Change requests|1 day
+4.3|Update the Plan|1 day
+4.4|Track status of defects|2 days
+5|Closing|3 days
+5.1|Lessons Learned|1 day
+5.2|Demo of the project|1 day
+5.3|Final project delivery to clients|1 day
+
 <h4>4.3.3: Project Human Resource Management: </h4>
 Based on the project requirements we need around 10 members to complete the project successfully. As our project needs people who work on technologies like html, CSS, java script and data base so we choose people who had good amount of experience and had been part of different projects of respective technology. Then after acquiring the required people we will allocate the work according to their skills and measure their performance by allocating them the work and giving them the deadlines and check whether they are completing the task on time if they cannot complete it on time will try to know what is the problem and try to help him in completing the task. If he completes the work on the time then we would appreciate the employee in the scrum meeting as appreciation gives us new energy.<br>
 <h4>4.3.4 Project Procurement Management and Budget Allocation:</h4> 
