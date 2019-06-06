@@ -1,3 +1,5 @@
+
+
 Issue|Description|Impact|Date Reported|Reported By|Assigned To	Priority|Due Date|Status|Comments
 ---|---|---|---|---|---|---|---|---|---|
 1|UI requirements are not clearly gathered|Delay in the project development because UI requirements are necessary to develop website|June 3rd|Sathwika Gone|Nandini Doppalapudi|High|June 5th|Closed|UI requirements specifications are clear
