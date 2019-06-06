@@ -1,5 +1,5 @@
 <h2>Stakeholder Analyysis</h2>
-Stakeholder analysis is used to analyze and identify stakeholders. This information helps to know the interests of the stakeholder and the ways to address them in the project. <br>
+Stakeholder analysis is used to analyze and identify stakeholders. This information helps to know the interests of the stakeholder and the ways to address them in the project. <br><br>
 
 Name|Power/Interest|Current Engagement|Potential Manager|
 ---|---|---|---|
