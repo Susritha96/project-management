@@ -39,17 +39,17 @@ Rakesh Avirineni    | Tester | Tests the interfaces so that everything is workin
 
 <h3>3. Managerial Process Plan:</h3>
 <h4>3.1 Startup plans:</h4>
-This project approximately takes 2 months to complete with a budget of $8650 where manager, team lead, front end developer and tester will be working who will be trained for 1 day (where they will be introduced to process of developing the application).<br>
+This project approximately takes 15 days to complete with a budget of $2500 where manager, team lead, front end developer and tester will be working who will be trained for 1 day (where they will be introduced to process of developing the application).<br>
 
 <h4>3.2 Work plan:</h4>
 
 | Work Activites          | Schedule  | Budget Allocation  |
 |-------------------------|-----------|--------------------|
-| Requirements Gathering  | 10 days   | $700               |
-| Design Delivery         | 15 days   | $500               |
-| Development             | 25 days   | $4500              |
-| Testing                 | 12 days   | $800               |
-| Launch Application      | 3 days    | $500               |
+| Requirements Gathering  | 10 days   | $10,000            |
+| Design Delivery         | 15 days   | $12,000            |
+| Development             | 25 days   | $25,000            |
+| Testing                 | 12 days   | $13,000            |
+| Launch Application      | 3 days    | $6,310             |
 
 <h3>4. Technical Process Plan:</h3>
 <h4>4.1. Process Model:</h4>
@@ -72,12 +72,13 @@ Roles and Responsibilities:<br>
 <br>This project has met the business requirements like it gets more amount than that is invested, increases the level of the company through developing quiz app as it reaches many clients.<br>
 <h4>4.2 Project Planning:</h4>
 <h4>4.2.1 Cost estimate:</h4>
-The approximate cost estimate of this project is $8650.<br>
-•	WBS items-$6650<br>
-•	Hardware-$1000<br>
-•	Software-$0<br>
-•	Testing-$0<br>
-•	Reserves-$1000<br>
+The approximate cost estimate of this project is $66,310.<br>
+•	WBS items-$10,500<br>
+•	Hardware-$8010<br>
+•	Software-$1500<br>
+•	Testing-$1200<br>
+•	Training and support-$35,600<br>
+•	Reserves-$9,500<br>
 <h4>4.2.2 Staffing:</h4>
 
 
@@ -146,14 +147,44 @@ We will prepare schedule for the complete project by considering each and every 
 <h4>4.3.3: Project Human Resource Management: </h4>
 Based on the project requirements we need around 10 members to complete the project successfully. As our project needs people who work on technologies like html, CSS, java script and data base so we choose people who had good amount of experience and had been part of different projects of respective technology. Then after acquiring the required people we will allocate the work according to their skills and measure their performance by allocating them the work and giving them the deadlines and check whether they are completing the task on time if they cannot complete it on time will try to know what is the problem and try to help him in completing the task. If he completes the work on the time then we would appreciate the employee in the scrum meeting as appreciation gives us new energy.<br>
 <h4>4.3.4 Project Procurement Management and Budget Allocation:</h4> 
-We will buy selenium testing tools in order to test the website performance and whether the website is properly working or not. We allocated 0$ to buy different testing tools. <br>
+We will buy selenium testing tools in order to test the website performance and whether the website is properly working or not. We allocated 1200 $ to buy different testing tools. <br>
 <h4>4.3.5 Project Management and control:</h4>
 We allocate a person to take the role of monitoring of all the work whether the work is going according to the schedule and if the work is being delayed then he will take the necessary steps to make sure that the work finishes on time and the same person takes care of the budget and make sure the money is not being wasted and the budget does not go beyond the expectation. <br>
 <h4>4.3.6 Project Quality Management:</h4>
 We will setup some policies and guidelines and make sure very member in the team follow them and work accordingly.<br>
 <h4>4.3.7 Project Communications Plan:</h4>
-We will communicate through skype calls and if there is any emergency and if any team member is not available we will have a virtual meeting through skype and we even use some of the tools like screen sharing apps like join me and show my pc to work virtually if needed.<br>
+<b><h3>Projects Communication Management</h3></b>
+Project communications are guided by Project communications Plan. It consists project structure and process that was used in requirements collection, understanding about the actions required among the project team .All the information of the stakeholder is maintained in stakeholder Communications Analysis table.<br><br>
+<b>Stakeholder communications requirements</b><br><br>
 
+
+StakeHolders|Document Name |Document Format|Contact Person|Due Date|
+---|---|---|---|---| 
+Project Manager|Project status report|Email|sathwikagone@gmail.com|Every week
+Team Lead|Project status report|Email|doppalapudinandini77@gmail.com|Every week
+Team Member|Project documents|Email|susrithagade199@gmail.com|Daily
+Team Member|Project documents|Email|sathwikagone@gmail.com|Daily
+Team Member|Project documents|Email|doppalapudinandini77@gmail.com|Daily
+
+
+
+<b>Information to be communicated, including format, content, and level of detail</b><br>
+Information regarding should be available to the members in the team by using a template which should be accessed by everyone by using tools like google docs or SharePoint. Template should contain all the content that should be included in the project and the level details depends on the persons who is analyzing the information.<br><br>
+<b>Who will receive the information and who will produce it</b><br>
+Project manager is the one who is responsible for assigning tasks to the team members, everyone will be assigned tasks every day and team members can see their assigned tasks by tools like Jira etc. if there are any changes to be done in the project then project manager will be responsible to implement those changes and changes will be discussed among the teams and also with stakeholder during the official meetings.<br><br>
+<b>Suggested methods or technologies for conveying the information</b><br>
+With the help of work breakdown structure Gantt chart will be created which helps to know the start and end dates about the particular task. Information can also be shared by using communication tools like Gmail, Outlook, Team meetings (Scrum) for conveying any changes in the project or any other important tasks like performance issues.<br><br>
+<b>Frequency of communication</b><br>
+All the team along with the stakeholder meets every Wednesday any will discuss about the project development performance and the whether application meets the requirements of the stakeholder. <br>
+Team Manager will conduct the daily scrum meetings with all his team members to discuss about the performance and to know that all the assigned tasks are assigned in time.<br><br>
+<b>Escalation procedures for resolving issues </b><br>
+All the work related to the project is divided into parts and if the assigned person is not able to perform the task then the task will be assigned to some other higher authority person so that the task is not delayed and does not delay the project submission.<br>
+Every task will be assigned with priority which are called tickets, depending on the tickets the procedure which is of high priority must be completed.<br><br>
+<b>Revision procedures for updating the communications management plan</b><br>
+The revised procedures for updating the communication management plan are collaborative tools like google docs, SharePoint.<br><br>
+<b>A glossary of common terminology</b><br>
+Stakeholder - A person who is affected by project activities.<br>
+Escalation – An issue which is not resolved by team member and needs the solution from higher authorities like team Lead or Project Manager.<br>
 <h4>4.3.8 Project Closure:</h4>
 We make sure the requirements given by the project sponsor and arrange a meet with the sponsor and explain about the website and handover the performance results to the sponsor.<br>
 <h3>5. Supporting process Plan:</h3>
