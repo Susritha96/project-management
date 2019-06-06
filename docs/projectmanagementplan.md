@@ -16,8 +16,8 @@
 SNO|PROCESS|DAYS|
 ---|---|---|
 1|Initiation|7.37 days|
-2|Planning|23.625 days |
-3|Execution|33 days|
+2|Planning|25.8 days |
+3|Execution|22 days|
 4|Monitoring and Controlling | 4.625 days  |
 5|Closing| 2.625 days|  
 
