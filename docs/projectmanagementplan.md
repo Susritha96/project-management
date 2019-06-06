@@ -140,6 +140,9 @@ The approximate cost estimate of this project is $20,130.<br>
 	Final project delivery to clients<br>
 <h4>4.3.2 Project Schedule and Time management:</h4>
 We will prepare schedule for the complete project by considering each and every team members capability, performance and also time required in order to train team members on the new technologies that are being used in the project.<br><br>
+
+
+
 Number|Task Name| Duration
 |---|---|---|
 1|Initiation|7.6 days
@@ -192,6 +195,10 @@ Number|Task Name| Duration
 5.1|Lessons Learned|1 day
 5.2|Demo of the project|1 day
 5.3|Final project delivery to clients|1 day
+
+
+
+
 
 <h4>4.3.3: Project Human Resource Management: </h4>
 Based on the project requirements we need around 10 members to complete the project successfully. As our project needs people who work on technologies like html, CSS, java script and data base so we choose people who had good amount of experience and had been part of different projects of respective technology. Then after acquiring the required people we will allocate the work according to their skills and measure their performance by allocating them the work and giving them the deadlines and check whether they are completing the task on time if they cannot complete it on time will try to know what is the problem and try to help him in completing the task. If he completes the work on the time then we would appreciate the employee in the scrum meeting as appreciation gives us new energy.<br>
